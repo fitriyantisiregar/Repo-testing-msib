@@ -1,0 +1,3 @@
+ini commmit pertama
+ini commit kedua pada git 
+pertama commit
